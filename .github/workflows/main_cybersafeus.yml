@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'cybersafeus'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_53B758A1C21840AEAEA7432232083643 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2E61CA84DAC34FB0AEE1DB1657290288 }}
           package: .
